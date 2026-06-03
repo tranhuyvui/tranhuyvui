@@ -11,10 +11,10 @@ I am an Information Technology student focused on Backend Development with Node.
 
 ## Tech Stack
 
-**Backend:** Node.js, Express.js, TypeScript, RESTful API, JWT, OTP, Middleware, Validation, Error Handling
-**Database / Cache:** SQL Server, MongoDB, MySQL, Redis
-**Frontend:** Vue 3, TailwindCSS, HTML/CSS
-**Tools:** Git, GitHub, Postman, Railway, Render, Cloudinary
+- **Backend:** Node.js, Express.js, TypeScript, RESTful API, JWT, OTP, Middleware, Validation, Error Handling
+- **Database / Cache:** SQL Server, MongoDB, MySQL, Redis
+- **Frontend:** Vue 3, TailwindCSS, HTML/CSS
+- **Tools:** Git, GitHub, Postman, Railway, Render, Cloudinary
 
 ## Featured Projects
 
